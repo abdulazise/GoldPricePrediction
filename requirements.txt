@@ -1,3 +1,4 @@
 prophet
 plotly
 seaborn
+streamlit_lottie
